@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Арагорн",
+    "race": "человек",
+    "char_class": "воин",
+    "level": 5,
+    "player": "Игрок1",
+    "background": "Странник"
+  },
+  {
+    "id": 2,
+    "name": "halva",
+    "race": "эльф",
+    "char_class": "маг",
+    "level": 3,
+    "player": "halid",
+    "background": "бомж"
+  }
+]
